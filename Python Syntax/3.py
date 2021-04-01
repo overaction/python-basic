@@ -12,3 +12,5 @@ def myfunc2():
 myfunc1()
 myfunc2()
 print("3. Computer is " + y)
+
+print(str(2017112181)+" 김만철")
